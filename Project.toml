@@ -1,0 +1,19 @@
+name = "libiio_jll"
+uuid = "8da1a5bb-246c-59c5-9ba1-a6804f8e92f0"
+version = "0.23.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+libusb_jll = "a877fdc9-fe69-5ed6-b93d-11ecd0dc2d49"
+XML2_jll = "02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+libaio_jll = "ddfeb750-efa4-54db-b6b8-70458c04a6eb"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+libusb_jll = "~1.0.24"
+XML2_jll = "~2.9.12"
+libaio_jll = "~0.3.112"
