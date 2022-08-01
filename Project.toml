@@ -1,6 +1,6 @@
 name = "libiio_jll"
 uuid = "8da1a5bb-246c-59c5-9ba1-a6804f8e92f0"
-version = "0.23.0+0"
+version = "0.24.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

@@ -1,143 +1,143 @@
 [[libiio]]
 arch = "aarch64"
-git-tree-sha1 = "ac4dc45720442ba6990c83a8b67c88005180d1e6"
+git-tree-sha1 = "b19cb6eb5d2f44866bda4048f95ac71b7246e1b6"
 os = "macos"
 
     [[libiio.download]]
-    sha256 = "f6b9643811de03fd071c53207211016871fb2747e7e738c28124927a5503c0aa"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.aarch64-apple-darwin.tar.gz"
-[[libiio]]
-arch = "x86_64"
-git-tree-sha1 = "e27f948662aa10b58cf1ccf9d6124e80cfb72f91"
-os = "macos"
-
-    [[libiio.download]]
-    sha256 = "11f66cb5a180e05dff48d9784e7fecfdb556814bc940d883d756f8fc2b9b87cb"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "efdfe1ce051b7c2eba516b22602aee44892c2fcc99647ee285b73ce62f70a4c2"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.aarch64-apple-darwin.tar.gz"
 [[libiio]]
 arch = "aarch64"
-git-tree-sha1 = "2ad87ba5c507de8861dc9c03b51b02c3738269c5"
+git-tree-sha1 = "1d373e0fab5250e3666b0fe2b021f2a0bba4a2a5"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "230d178cb93f34b251983b90fddac447b111e2a704555ef30bff5aa6bc3ec112"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "f2a02ffb7846395f863f66f6f33273bac0f2262e6fbb5b1f623b70c90f5ea222"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.aarch64-linux-gnu.tar.gz"
 [[libiio]]
 arch = "aarch64"
-git-tree-sha1 = "845e0d82c7204b3e42743f39daab1cae5c1ec89a"
+git-tree-sha1 = "1d654f622b6e4c21657bdfec9d99c3fa494ff485"
 libc = "musl"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "6e3b315a492033099524bf1435366eaa6e1d33cda5671156cd583bfd5a367e52"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.aarch64-linux-musl.tar.gz"
+    sha256 = "1574ccf7e11f97456c8d38abd12568c690623209f1ad6c5376a610bb24c1fa21"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.aarch64-linux-musl.tar.gz"
 [[libiio]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cbe3660a50f80e5836dbd7bd4098604c45a4bcf0"
+git-tree-sha1 = "076c2cd5899bf4983520296a35c5fdb9ebe37c91"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "48ef05dc88d8bb13fd39941978c1b6ff5cdcbeb8057ba9dcedf4c97e67b3a8bb"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ac04a6438834d635448a25b0e9c7d24a5996fc04cbe5955c38ff4e8632dc226e"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.armv6l-linux-gnueabihf.tar.gz"
 [[libiio]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "0eb910de8052dea64ec28a172039aa65fed20f3e"
+git-tree-sha1 = "91eeaa67688aaed9621cbc3a6b819a768cca8a1c"
 libc = "musl"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "45c019f93e73daf14dfa7f730931ca4d81f09ec31eaea6752ad8ffd14b0247f3"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "01074f42de22238b13c20f03003a56be7051dcacdc4e001a393764844e4be23b"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.armv6l-linux-musleabihf.tar.gz"
 [[libiio]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "6ad699a2c5e5c63d4d2b39ca9b807f987ca1bb88"
+git-tree-sha1 = "2868b03b67867eaa6aecffb24c4b1ff869ea94bd"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "08afba46c72c6a40d860303f8190bac1fefb3380e8bb7ba20bfbe3d060a1f38f"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e89821d5e7959af2b940bca06b26e737df287f57bf7eeaeffb658f7ca48827f7"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.armv7l-linux-gnueabihf.tar.gz"
 [[libiio]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "21088bea011d2937888ebf4ce9cb5cdafe4ee03d"
+git-tree-sha1 = "0a21dd243570692a752f072e0c31fa21fd662412"
 libc = "musl"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "c5d91229c69164bc7a3a4f6b205699940c083b8e3c7c0053ff324a025dc70d71"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "f70e28fa386f6cb099229352fec3cc18f845717acf6a24c50cbc86644af437e7"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.armv7l-linux-musleabihf.tar.gz"
 [[libiio]]
 arch = "i686"
-git-tree-sha1 = "bbfe6605d4a3c0b342cd18913fa6d597a4bdda7b"
+git-tree-sha1 = "90dbe6e7e11ac53bb32b18637670f83af1b2ebf7"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "745db4cb9f27a3a07f3c23ed29a1157ee212ce57e19b258f660e2ec726cea9a9"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.i686-linux-gnu.tar.gz"
+    sha256 = "0fb5405275a0ba4e45642617fc9285647b375436284c0dde5a57e6e9a49326c3"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.i686-linux-gnu.tar.gz"
 [[libiio]]
 arch = "i686"
-git-tree-sha1 = "bc6e7fcc265d17bdcdaf85abbe65c171ce44827c"
+git-tree-sha1 = "f0d0c10a2c6f7f3efeb8e4194d27fa529e247bd5"
 libc = "musl"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "62dfb20a9c3593c758b8bdcb9647de79e08513e9f822ec8c683389598264e670"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.i686-linux-musl.tar.gz"
+    sha256 = "ae10776a9ffff22105f91ee019ef86173857b7bb5237c6fda83b1d8adc5c6973"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.i686-linux-musl.tar.gz"
 [[libiio]]
 arch = "i686"
-git-tree-sha1 = "ab8cf3a011ec99eebc176eecd81aaaf6589660b6"
+git-tree-sha1 = "ffc7e4894b34d516f6ee69eae215dab85aee4787"
 os = "windows"
 
     [[libiio.download]]
-    sha256 = "a8bef9d35897416ca45c479497e3b45c65d5a99309e5a8650f9f660eb6adc302"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.i686-w64-mingw32.tar.gz"
+    sha256 = "6c4025163f0599b82a74aec4a18f07845d685dbf251c2775fcf90062f5fba400"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.i686-w64-mingw32.tar.gz"
 [[libiio]]
 arch = "powerpc64le"
-git-tree-sha1 = "ef73a17962461d341c729af2b775de626bf57896"
+git-tree-sha1 = "d86f5799dd23bc2d5841eda1ddb51576da3c48d9"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "df0df3a6b110e50a15a8718a3e5865036f3c10ce0c84283ae00e9facb87133cf"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "5f1441a91a6228193bafe29c97814f4bcb31eb6dd9d2d07de62dcee5f77c392d"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.powerpc64le-linux-gnu.tar.gz"
 [[libiio]]
 arch = "x86_64"
-git-tree-sha1 = "d043316690bdcd70f041b815031e50cda4024d51"
+git-tree-sha1 = "9ab6597dd56b0412b4b18460593df98dfde5e68e"
+os = "macos"
+
+    [[libiio.download]]
+    sha256 = "0c23d50ab58f91e72621343f25835558d265cbddfb848b57f41e21f48410c029"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.x86_64-apple-darwin.tar.gz"
+[[libiio]]
+arch = "x86_64"
+git-tree-sha1 = "e4dfef6b1ca9ea97546aa348fda31194be0068c4"
 libc = "glibc"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "85f8e9c57a01a1652e99abd262cd3e53836ee51cd81362c67699755cd58b048f"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "a9cdf2a922d1e6d1689f9699b5dbda8f4f42214596396fb437034573d3852d5f"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.x86_64-linux-gnu.tar.gz"
 [[libiio]]
 arch = "x86_64"
-git-tree-sha1 = "1fd1ee00d6b4ec8d54df557599f94513e3826946"
+git-tree-sha1 = "77ef8d6a551e7135ab4ac0d7f0e4c0b3b719eca6"
 libc = "musl"
 os = "linux"
 
     [[libiio.download]]
-    sha256 = "c4b220446a22d881ce4f9b8678d8bfabde78af3efbb8e053f1708a7284f04c8f"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.x86_64-linux-musl.tar.gz"
+    sha256 = "7c5e84a27979bd7431061e8ba2ac196bc91c0e540e7dfe60bb4c0ab6b8dea5bc"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.x86_64-linux-musl.tar.gz"
 [[libiio]]
 arch = "x86_64"
-git-tree-sha1 = "27d814fc488b34feca62b74b45c7a5b0f8e4bc21"
+git-tree-sha1 = "814fd76683c6f3fc77329869b80242d6becd32fc"
 os = "freebsd"
 
     [[libiio.download]]
-    sha256 = "f4c2c4c3101f0c9bb3475878eb0a07676886c4c3a4a220bed93919845a1045ec"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d7f814f4f865c200dc3064494652f10175f8244283f5552b8db660fe27d2d5f0"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.x86_64-unknown-freebsd.tar.gz"
 [[libiio]]
 arch = "x86_64"
-git-tree-sha1 = "5e11d595f21a5f465e6ded834b912da3adc42b22"
+git-tree-sha1 = "51b1de5183d61990b15b3399b386dacd1b4b3daf"
 os = "windows"
 
     [[libiio.download]]
-    sha256 = "1eb323133a09938e58bb1805c6ccfc1752a318b799f7f509224d1fcd2b7c4ebc"
-    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.23.0+0/libiio.v0.23.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "55a2155d15fcb49d487588a36c71f1b9566f62fef4d2a120860ea0224727abd5"
+    url = "https://github.com/JuliaBinaryWrappers/libiio_jll.jl/releases/download/libiio-v0.24.0+0/libiio.v0.24.0.x86_64-w64-mingw32.tar.gz"
